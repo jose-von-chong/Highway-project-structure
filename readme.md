@@ -1,5 +1,5 @@
 # Highway project structure by Layer Code:
-This is intended as a mini tutorial in how we at Layer code maintain a clean structure for our web projects using highway js as key solution for transitions in the web. We demonstrate how to use custom js for each page and external css styles like bootstrap 
+This is intended as a mini tutorial in how we at Layer code maintain a clean structure for our web projects using highway js as key solution for transitions in our hybrid cordova apps. We demonstrate how to use custom js for each page and external css styles like bootstrap 
 
 ### Project Structure
 ```
