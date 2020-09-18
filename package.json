@@ -1,0 +1,19 @@
+{
+  "name": "highway_project_structure",
+  "version": "1.0.0",
+  "description": "an example project structure to use with highway js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/*.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "animejs": "^3.2.0",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4"
+  }
+}
