@@ -53,7 +53,6 @@ This is intended as a mini tutorial in how we at Layer code maintain a clean str
     <title>Template</title>
   </head>
   <body>
-    <body>
       <div id="app" data-router-wrapper>
         <div data-router-view="new_page">
           <div class="container">
@@ -66,7 +65,6 @@ This is intended as a mini tutorial in how we at Layer code maintain a clean str
         </div>
       </div>
 
-    </body>
    
     <!--CORE SCRIPT-->
     <script src="./assets/js/core.js"></script>
